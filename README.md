@@ -52,3 +52,5 @@ Project Steps:
 ●	Design an interactive dashboard for end-users to explore the data on their own.
 
 Remember to document each step thoroughly and use best practices in data visualisation and storytelling. Make the report and dashboard user-friendly and accessible for the audience. Additionally, use slicers or filters to allow users to change parameters and view different aspects of the data easily.
+Find the PPT here : 
+[Global Health Expenditure Analysis.pptx](https://github.com/user-attachments/files/15800933/Global.Health.Expenditure.Analysis.pptx)
